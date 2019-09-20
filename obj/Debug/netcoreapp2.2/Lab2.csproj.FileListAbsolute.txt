@@ -29,3 +29,4 @@ C:\Users\nicol\source\repos\Lab2\obj\Debug\netcoreapp2.2\Lab2.pdb
 C:\Users\nicol\source\repos\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CopyComplete
 C:\Users\nicol\source\repos\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.g.cshtml.cs
 C:\Users\nicol\source\repos\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\nicol\source\repos\Lab2\obj\Debug\netcoreapp2.2\Lab2.csprojAssemblyReference.cache
